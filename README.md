@@ -12,12 +12,12 @@
 
 
 ## Overview
-I have taken an example of **Clothing Sales Data** which consists of **4 States with 5 Categories** . In this small project, I have **cleaned the raw data with MS Excel** so that anyone can work on it and **make sense of the data**. Here I have used **formulas**, **power-query** and some popular **data-cleaning techniques** to clean the data.
+I have taken an example of **Clothing Sales Data** which consists of **4 States with 5 Categories**. In this small project, I have **cleaned the raw data with MS Excel** so that anyone can work on it and **make sense of the data**. Here I have used **formulas**, **power-query** and some popular **data-cleaning techniques** to clean the data.
 
 
 ## Motivation
 
-When we fetch the data from various software using APIs or in-house tools, the data most of the time is **not readable** . So the motivation behind this project is to use the **power query feature in MS Excel** to overcome the challenge to **make the data ready for analysis** . 
+When we fetch the data from various software using APIs or in-house tools, the data most of the time is **not readable**. So the motivation behind this project is to use the **power query feature in MS Excel** to overcome the challenge to **make the data ready for analysis**.
 
 
 ## Workflow
