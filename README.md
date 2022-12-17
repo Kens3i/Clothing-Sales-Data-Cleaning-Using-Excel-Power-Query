@@ -1,7 +1,7 @@
 # CLOTHING SALES DATA CLEANING USING EXCEL POWER QUERY
 ## Raw Data vs Clean Data
 
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5hLG.png" alt="Hxq5hLG.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxqan1f.png" alt="Hxqan1f.png" border="0"></a>
 
 ## Table of Contents
 
@@ -41,12 +41,10 @@ Had to clean the data in less than 2 hours of time because of the deadline so th
 
 ## Before and After Images
 ### Before
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5lgp.png" alt="Hxq5lgp.png" border="0"></a>
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5aqv.png" alt="Hxq5aqv.png" border="0"></a>
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5MmX.png" alt="Hxq5MmX.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxqaqss.png" alt="Hxqaqss.png" border="0"></a>
 
 ### After
-<a href="https://freeimage.host/"><img src="https://iili.io/Hxq51dN.png" alt="Hxq51dN.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/HxqaCqG.png" alt="HxqaCqG.png" border="0"></a>
 
 ### Thankyou For Spending Your Precious Time Going Through This Project!
 ### If You Find Any Value In This Project Or Gained Something New Please Do Give A ⭐.
