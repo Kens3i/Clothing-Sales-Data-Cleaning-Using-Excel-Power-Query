@@ -41,10 +41,12 @@ Had to clean the data in less than 2 hours of time because of the deadline so th
 
 ## Before and After Images
 ### Before
-![](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query/blob/main/Images/Raw%20Data.PNG?raw=true)
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5lgp.png" alt="Hxq5lgp.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5aqv.png" alt="Hxq5aqv.png" border="0"></a>
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxq5MmX.png" alt="Hxq5MmX.png" border="0"></a>
 
 ### After
-![](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query/blob/main/Images/clothing%20sales%20data%20cleaned.PNG?raw=true)
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxq51dN.png" alt="Hxq51dN.png" border="0"></a>
 
 ### Thankyou For Spending Your Precious Time Going Through This Project!
 ### If You Find Any Value In This Project Or Gained Something New Please Do Give A ⭐.
