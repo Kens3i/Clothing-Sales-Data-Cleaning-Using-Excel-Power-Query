@@ -1,7 +1,7 @@
 # CLOTHING SALES DATA CLEANING USING EXCEL POWER QUERY
 ## Raw Data vs Clean Data
 
-![](https://github.com/Kens3i/Clothing-Sales-Data-Cleaning-Using-Excel-Power-Query/blob/main/Images/Clothing%20Sales%20Data%20Cleaning.png?raw=true)
+![](https://freeimage.host/i/Hxq5hLG)
 
 ## Table of Contents
 
